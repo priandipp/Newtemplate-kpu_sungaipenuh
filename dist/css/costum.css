@@ -1,11 +1,11 @@
 /* index launcher */
-header h1 {
-  font-family: 'Great Vibes', cursive;
+.header-h1 {
+  font-family: 'Comic Neue', cursive;
   font-size: 48px;
   font-weight: bold;
   text-align: center;
   color: white;
-  text-shadow: 2px 2px 2px #000000;
+  text-shadow: 1px 1px 1px #000000;
 }
 
 .logo-welcome {
@@ -16,12 +16,29 @@ header h1 {
 }
 
 .ket {
-  margin-top: -10px;
-  font-family: 'Lato', Calibri, Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
   text-align: center;
   color: white;
   text-shadow: 2px 2px 2px #000000;
+}
+
+.kontak {
+  font-size: 10pt;
+  color: #3d3d3d;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.alamat {
+  float: left;
+}
+
+.sosmed-index {
+  float: right;
+}
+
+.footer {
+  margin-top: 150px;
 }
 
 /* end index launcher */
